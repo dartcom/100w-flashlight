@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "C673802")(type "KiCad")(uri "${KIPRJMOD}/libs/C673802/C673802.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS54202DDCR")(type "KiCad")(uri "${KIPRJMOD}/libs/TPS54202DDCR /TPS54202DDCR.kicad_sym")(options "")(descr ""))
+  (lib (name "C1883519")(type "KiCad")(uri "${KIPRJMOD}/libs/C1883519/C1883519.kicad_sym")(options "")(descr ""))
+  (lib (name "C2679175")(type "KiCad")(uri "${KIPRJMOD}/libs/C2679175/C2679175.kicad_sym")(options "")(descr ""))
+)
